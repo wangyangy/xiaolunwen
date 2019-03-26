@@ -1,0 +1,61 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.trees.J48 -C 0.25 -M 2
+Relation:     combine-weka.filters.unsupervised.attribute.Remove-R1
+Instances:    80
+Attributes:   9
+              NL
+              NIP
+              NC
+              NUA
+              NSL
+              NSIP
+              RL
+              RIP
+              class
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+J48 pruned tree
+------------------
+
+NC <= 2
+|   NSIP <= 1
+|   |   NL <= 27: abnormal (3.0)
+|   |   NL > 27: normal (2.0)
+|   NSIP > 1: normal (61.0)
+NC > 2: abnormal (14.0)
+
+Number of Leaves  : 	4
+
+Size of the tree : 	7
+
+
+Time taken to build model: 0.01 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances          75               93.75   %
+Incorrectly Classified Instances         5                6.25   %
+Kappa statistic                          0.8092
+Mean absolute error                      0.0571
+Root mean squared error                  0.2252
+Relative absolute error                 16.8043 %
+Root relative squared error             54.9265 %
+Total Number of Instances               80     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.968    0.176    0.953      0.968    0.961      0.810    0.958     0.979     normal
+                 0.824    0.032    0.875      0.824    0.848      0.810    0.958     0.914     abnormal
+Weighted Avg.    0.938    0.146    0.937      0.938    0.937      0.810    0.958     0.965     
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+ 61  2 |  a = normal
+  3 14 |  b = abnormal
+

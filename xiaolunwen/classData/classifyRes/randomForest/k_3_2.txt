@@ -1,0 +1,69 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.trees.RandomForest -P 100 -I 100 -num-slots 1 -K 0 -M 1.0 -V 0.001 -S 1
+Relation:     combine_k_3_2-weka.filters.unsupervised.attribute.Remove-R1
+Instances:    13
+Attributes:   9
+              NL
+              NIP
+              NC
+              NUA
+              NSL
+              NSIP
+              RL
+              RIP
+              class
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+RandomForest
+
+Bagging with 100 iterations and base learner
+
+weka.classifiers.trees.RandomTree -K 0 -M 1.0 -V 0.001 -S 1 -do-not-check-capabilities
+
+Time taken to build model: 0.01 seconds
+
+=== Predictions on test data ===
+
+    inst#     actual  predicted error prediction
+        1   1:normal   1:normal       0.67 
+        2 2:abnormal 2:abnormal       0.79 
+        1   1:normal 2:abnormal   +   0.58 
+        2 2:abnormal 2:abnormal       0.76 
+        1   1:normal   1:normal       0.89 
+        2 2:abnormal 2:abnormal       0.83 
+        1   1:normal   1:normal       0.61 
+        1   1:normal   1:normal       0.95 
+        1   1:normal   1:normal       0.92 
+        1   1:normal   1:normal       0.93 
+        1 2:abnormal 2:abnormal       0.85 
+        1 2:abnormal   1:normal   +   0.71 
+        1 2:abnormal 2:abnormal       0.79 
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances          11               84.6154 %
+Incorrectly Classified Instances         2               15.3846 %
+Kappa statistic                          0.6905
+Mean absolute error                      0.2538
+Root mean squared error                  0.3192
+Relative absolute error                 49.1489 %
+Root relative squared error             61.6205 %
+Total Number of Instances               13     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.857    0.167    0.857      0.857    0.857      0.690    0.929     0.938     normal
+                 0.833    0.143    0.833      0.833    0.833      0.690    0.929     0.944     abnormal
+Weighted Avg.    0.846    0.156    0.846      0.846    0.846      0.690    0.929     0.941     
+
+=== Confusion Matrix ===
+
+ a b   <-- classified as
+ 6 1 | a = normal
+ 1 5 | b = abnormal
+

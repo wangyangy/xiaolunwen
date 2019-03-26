@@ -1,0 +1,59 @@
+Shockwave Flash
+Chrome Remote Desktop Viewer
+Chromium PDF Viewer
+Chrome PDF Plugin
+Chrome PDF Viewer
+Native Client
+onlinefav
+360Skinhelper
+koudai
+zconf
+SiteInfo
+Screener
+GamePlugin
+Microsoft® Windows Media Player Firefox Plugin
+Alipay security control
+AliSSOLogin plugin
+iTrusChina iTrusPTA,XEnroll,iEnroll,hwPTA,UKeyInstalls Firefox Plugin
+Microsoft Office 2013
+360SoftMgrPlugin
+360安全卫士 快速登录
+CNKI CAJAX Plugin
+CNKI sysinfo Plugin
+Tencent QQ
+Tencent SSO Platform
+XunLei User Plugin
+VMware Remote Console Plug-in
+Intel® Identity Protection Technology
+Silverlight Plug-In
+NVIDIA 3D Vision
+NVIDIA 3D VISION
+QQMail Plugin
+Tencent FTN plug-in
+QQÒôÀÖ²¥·Å¿Ø¼þ
+APlayer ActiveX hosting plugin
+Thunder DapCtrl NPAPI Plugin
+QQGamePlugin Pro
+BaiduYunGuanjia Application
+Foxit Reader Plugin for Mozilla
+XunLei Plugin
+Chromium PDF Plugin
+iTrusChina iTrusPTA,XEnroll,iEnroll,hwPTA,UKeyInstalls Firefox PluginMicrosoft Office 2013
+Silverlight Plug-InNVIDIA 3D Vision
+Adblock Plus
+DownThemAll
+LastPass
+Awesome Screenshot Plus
+iMacros
+Xmarks Sync
+vimium
+Postman
+Video download helper
+Screencastify
+Unblock Youku
+广告终结者
+CrxMouse
+FireShot
+Infinity新标签页
+VideoHunter+
+EditThisCookie

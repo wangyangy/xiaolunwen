@@ -1,0 +1,567 @@
+lintianxiang@wis-eye.com:
+    browser    Chrome浏览器    Safari浏览器
+    userAgent    Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1467.0 Safari/537.36    Mozilla/5.0 (X11; CrOS i686 3912.101.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.116 Safari/537.36    Mozilla/5.0 (Windows; U; Windows NT 5.1; it-IT) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.3 Safari/533.19.4
+    plugin    Infinity新标签页;Intel® Identity Protection Technology;Chrome PDF Viewer;Chromium PDF Viewer;GamePlugin;APlayer ActiveX hosting plugin;Chrome Remote Desktop Viewer;QQMail Plugin;Chrome PDF Plugin;CrxMouse;koudai;NVIDIA 3D VISION;onlinefav;
+    Screen    1280*1024
+    ip    221.2.164.16    221.2.164.13    221.2.164.7    221.2.164.25    221.2.164.18
+    local    山东省威海市
+    login abnormal    10
+    dynamic data    0.38275862069    0.323055555556    0.16    0.505791505792    0.2    0.294846705806    0.07
+wanghongyun@wis-eye.com:
+    browser    IE浏览器    Firefox浏览器
+    userAgent    Mozilla/5.0 (compatible, MSIE 11, Windows NT 6.3; Trident/7.0;  rv    Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10; rv 33.0) Gecko/20100101 Firefox/33.0
+    plugin    Thunder DapCtrl NPAPI Plugin;iTrusChina iTrusPTA,XEnroll,iEnroll,hwPTA,UKeyInstalls Firefox PluginMicrosoft Office 2013;CNKI sysinfo Plugin;Microsoft® Windows Media Player Firefox Plugin;Postman;koudai;Silverlight Plug-In;
+    Screen    1280*1024
+    ip    221.2.164.18    221.2.164.16
+    local    山东省威海市
+    login abnormal    13
+    dynamic data    0.408620689655    0.343611111111    0.15    0.513513513514    0.175    0.314851054577    0.0725
+yulin@wis-eye.com:
+    browser    Safari浏览器    IE浏览器    Opera浏览器
+    userAgent    Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-cn) AppleWebKit/533.19.4 (KHTML, like Gecko) Version/5.0.3 Safari/533.19.4    Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/5.0)    Opera/9.80 (Windows NT 5.2; U; zh-cn) Presto/2.7.62 Version/11.01
+    plugin    AliSSOLogin plugin;Screener;CrxMouse;VMware Remote Console Plug-in;LastPass;Xmarks Sync;
+    Screen    1024*768
+    ip    221.2.164.15    221.2.164.19    221.2.164.10
+    local    山东省威海市
+    login abnormal    24
+    dynamic data    0.393103448276    0.301666666667    0.15    0.513513513514    0.175    0.270493585562    0.07
+changjiaxin@wis-eye.com:
+    browser    Chrome浏览器    IE浏览器    Safari浏览器
+    userAgent    Mozilla/5.0 (X11; NetBSD) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.116 Safari/537.36    Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/5.0)    Mozilla/5.0 (Windows; U; Windows NT 6.1; zh-cn) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27
+    plugin    Video download helper;QQÒôÀÖ²¥·Å¿Ø¼þ;XunLei User Plugin;CNKI sysinfo Plugin;BaiduYunGuanjia Application;Silverlight Plug-In;Screener;FireShot;QQGamePlugin Pro;
+    Screen    1440*900
+    ip    221.2.164.7    221.2.164.10    221.2.164.9    221.2.164.20
+    local    山东省威海市
+    login abnormal    29
+    dynamic data    0.415517241379    0.304166666667    0.17    0.513513513514    0.175    0.27158077843    0.0675
+zhushichao@wis-eye.com:
+    browser    Chrome浏览器    IE浏览器    Firefox浏览器
+    userAgent    Mozilla/5.0 (X11; CrOS i686 4319.74.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.57 Safari/537.36    Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)    Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
+    plugin    Unblock Youku;Thunder DapCtrl NPAPI Plugin;Foxit Reader Plugin for Mozilla;NVIDIA 3D VISION;DownThemAll;Chrome PDF Plugin;iMacros;VideoHunter+;
+    Screen    1440*900
+    ip    221.2.164.16    221.2.164.12    221.2.164.9
+    local    山东省威海市
+    login abnormal    7
+    dynamic data    0.4    0.292777777778    0.21    0.494208494208    0.2    0.258751902588    0.0725
+fuyao@wis-eye.com:
+    browser    IE浏览器    Chrome浏览器
+    userAgent    Mozilla/5.0 (compatible, MSIE 11, Windows NT 6.3; Trident/7.0;  rv    Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.67 Safari/537.36
+    plugin    Postman;FireShot;iTrusChina iTrusPTA,XEnroll,iEnroll,hwPTA,UKeyInstalls Firefox Plugin;Tencent QQ;APlayer ActiveX hosting plugin;CNKI sysinfo Plugin;Chromium PDF Plugin;CNKI CAJAX Plugin;VideoHunter+;Intel® Identity Protection Technology;onlinefav;koudai;SiteInfo;
+    Screen    1280*1024
+    ip    221.2.164.14    221.2.164.17    221.2.164.10
+    local    山东省威海市
+    login abnormal    20
+    dynamic data    0.394827586207    0.326666666667    0.15    0.517374517375    0.175    0.291802565775    0.065
+zhanghao@wis-eye.com:
+    browser    Firefox浏览器    Opera浏览器
+    userAgent    Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0    Opera/9.80 (Windows NT 5.2; U; zh-cn) Presto/2.7.62 Version/11.01    Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv 24.0) Gecko/20100101 Firefox/24.0
+    plugin    Awesome Screenshot Plus;QQGamePlugin Pro;Screencastify;Chromium PDF Plugin;Shockwave Flash;GamePlugin;Chrome PDF Plugin;zconf;Xmarks Sync;Silverlight Plug-In;LastPass;Microsoft Office 2013;Chrome PDF Viewer;CNKI sysinfo Plugin;FireShot;
+    Screen    1440*900
+    ip    221.2.164.17    221.2.164.13
+    local    山东省威海市
+    login abnormal    6
+    dynamic data    0.398275862069    0.283055555556    0.18    0.509652509653    0.175    0.265709936943    0.0675
+hujixiang@wis-eye.com:
+    browser    Safari浏览器    Opera浏览器
+    userAgent    Mozilla/5.0 (Windows; U; Windows NT 5.1; it-IT) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.3 Safari/533.19.4    Opera/9.80 (Windows NT 6.1; U; pl) Presto/2.7.62 Version/11.00
+    plugin    QQÒôÀÖ²¥·Å¿Ø¼þ;onlinefav;Thunder DapCtrl NPAPI Plugin;Chromium PDF Plugin;Intel® Identity Protection Technology;Video download helper;360安全卫士 快速登录;koudai;QQMail Plugin;Chromium PDF Viewer;
+    Screen    800*600
+    ip    221.2.164.17    221.2.164.3
+    local    山东省威海市
+    login abnormal    15
+    dynamic data    0.403448275862    0.314444444444    0.14    0.513513513514    0.175    0.280495759948    0.0725
+huyi@wis-eye.com:
+    browser    Chrome浏览器    IE浏览器
+    userAgent    Mozilla/5.0 (X11; NetBSD) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.116 Safari/537.36    Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 7.0; InfoPath.3; .NET CLR 3.1.40767; Trident/6.0; en-IN)    Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; chromeframe/12.0.742.112)
+    plugin    CrxMouse;zconf;Infinity新标签页;EditThisCookie;Tencent FTN plug-in;Native Client;DownThemAll;Foxit Reader Plugin for Mozilla;QQMail Plugin;VMware Remote Console Plug-in;Adblock Plus;Screencastify;AliSSOLogin plugin;Video download helper;
+    Screen    800*600
+    ip    221.2.164.21    221.2.164.17    221.2.164.11    221.2.164.26    221.2.164.15
+    local    山东省威海市
+    login abnormal    20
+    dynamic data    0.389655172414    0.293611111111    0.19    0.513513513514    0.4    0.274190041313    0.0625
+gusonglin@wis-eye.com:
+    browser    Safari浏览器    Chrome浏览器
+    userAgent    Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_7; zh-cn) AppleWebKit/534.16+ (KHTML, like Gecko) Version/5.0.3 Safari/533.19.4    Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36
+    plugin    Video download helper;zconf;Tencent QQ;AliSSOLogin plugin;Alipay security control;CNKI sysinfo Plugin;NVIDIA 3D VISION;Foxit Reader Plugin for Mozilla;Chrome Remote Desktop Viewer;DownThemAll;vimium;广告终结者;
+    Screen    1024*768
+    ip    221.2.164.13    221.2.164.3    221.2.164.25    221.2.164.12
+    local    山东省威海市
+    login abnormal    15
+    dynamic data    0.401724137931    0.3125    0.15    0.513513513514    0.4    0.27940856708    0.065
+liushenrong@wis-eye.com:
+    browser    Chrome浏览器    Safari浏览器
+    userAgent    Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36    Mozilla/5.0 (Windows; U; Windows NT 5.1; it-IT) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.3 Safari/533.19.4
+    plugin    DownThemAll;Video download helper;Xmarks Sync;360SoftMgrPlugin;NVIDIA 3D VISION;Screencastify;Chromium PDF Viewer;360Skinhelper;QQMail Plugin;Native Client;FireShot;iMacros;Tencent FTN plug-in;BaiduYunGuanjia Application;
+    Screen    800*600
+    ip    221.2.164.13    221.2.164.15    221.2.164.23    221.2.164.17
+    local    山东省威海市
+    login abnormal    12
+    dynamic data    0.377586206897    0.305277777778    0.16    0.513513513514    0.425    0.275712111329    0.0675
+wanggang@wis-eye.com:
+    browser    Firefox浏览器    IE浏览器    Safari浏览器
+    userAgent    Mozilla/5.0 (Windows NT 6.1; rv 27.3) Gecko/20130101 Firefox/27.3    Mozilla/5.0 (compatible; MSIE 10.6; Windows NT 6.1; Trident/5.0; InfoPath.2; SLCC1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET CLR 2.0.50727) 3gpp-gba UNTRUSTED/1.0    Mozilla/5.0 (Windows; U; Windows NT 5.1; it-IT) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.3 Safari/533.19.4
+    plugin    iTrusChina iTrusPTA,XEnroll,iEnroll,hwPTA,UKeyInstalls Firefox Plugin;Chromium PDF Viewer;Unblock Youku;Tencent SSO Platform;广告终结者;Chromium PDF Plugin;Intel® Identity Protection Technology;Postman;
+    Screen    1280*1024
+    ip    221.2.164.7    221.2.164.11    221.2.164.23    221.2.164.9    221.2.164.19
+    local    山东省威海市
+    login abnormal    11
+    dynamic data    0.355172413793    0.308611111111    0.18    0.517374517375    0.4    0.28484453142    0.0575
+wanghan@wis-eye.com:
+    browser    Opera浏览器    IE浏览器
+    userAgent    Opera/9.80 (Windows NT 6.1; U; zh-cn) Presto/2.7.62 Version/11.01    Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; SLCC2; Media Center PC 6.0; InfoPath.3; MS-RTC LM 8; Zune 4.7)
+    plugin    XunLei User Plugin;Chromium PDF Plugin;Tencent SSO Platform;Silverlight Plug-InNVIDIA 3D Vision;360安全卫士 快速登录;FireShot;iMacros;360SoftMgrPlugin;Tencent FTN plug-in;XunLei Plugin;iTrusChina iTrusPTA,XEnroll,iEnroll,hwPTA,UKeyInstalls Firefox PluginMicrosoft Office 2013;Microsoft® Windows Media Player Firefox Plugin;
+    Screen    1280*1024
+    ip    221.2.164.25    221.2.164.20    221.2.164.22    221.2.164.9    221.2.164.17
+    local    山东省威海市
+    login abnormal    19
+    dynamic data    0.158620689655    0.432777777778    0.11    0.293436293436    0.4    0.480104370515    0.1175
+zhangyaqun@wis-eye.com:
+    browser    Chrome浏览器    IE浏览器
+    userAgent    Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2226.0 Safari/537.36    Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)
+    plugin    Silverlight Plug-In;FireShot;Screener;Unblock Youku;360SoftMgrPlugin;iTrusChina iTrusPTA,XEnroll,iEnroll,hwPTA,UKeyInstalls Firefox PluginMicrosoft Office 2013;Chromium PDF Viewer;Tencent QQ;
+    Screen    1280*1024
+    ip    221.2.164.19    221.2.164.9    221.2.164.24    221.2.164.21    221.2.164.16
+    local    山东省威海市
+    login abnormal    11
+    dynamic data    0.165517241379    0.444166666667    0.1    0.293436293436    0.4    0.468797564688    0.1275
+chenhong@wis-eye.com:
+    browser    Firefox浏览器
+    userAgent    Mozilla/5.0 (Windows NT 6.1; rv 27.3) Gecko/20130101 Firefox/27.3    Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
+    plugin    Intel® Identity Protection Technology;Silverlight Plug-In;SiteInfo;Xmarks Sync;onlinefav;Microsoft Office 2013;GamePlugin;Chromium PDF Plugin;XunLei User Plugin;广告终结者;Adblock Plus;BaiduYunGuanjia Application;Video download helper;
+    Screen    1600*900
+    ip    221.2.164.3    221.2.164.25    221.2.164.13    221.2.164.23    221.2.164.15
+    local    山东省威海市
+    login abnormal    31
+    dynamic data    0.175862068966    0.439166666667    0.1    0.289575289575    0.425    0.475320721896    0.1375
+caihaiming@wis-eye.com:
+    browser    Chrome浏览器    Firefox浏览器
+    userAgent    Mozilla/5.0 (X11; CrOS i686 3912.101.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.116 Safari/537.36    Mozilla/5.0 (Windows NT 6.1; rv 27.3) Gecko/20130101 Firefox/27.3
+    plugin    360Skinhelper;XunLei User Plugin;Silverlight Plug-InNVIDIA 3D Vision;Tencent QQ;Chrome PDF Viewer;Intel® Identity Protection Technology;CNKI sysinfo Plugin;iMacros;CrxMouse;iTrusChina iTrusPTA,XEnroll,iEnroll,hwPTA,UKeyInstalls Firefox Plugin;
+    Screen    1024*768
+    ip    221.2.164.10    221.2.164.26
+    local    山东省威海市
+    login abnormal    30
+    dynamic data    0.172413793103    0.442222222222    0.12    0.293436293436    0.425    0.461404653185    0.1325
+lihuaxin@wis-eye.com:
+    browser    Opera浏览器    Firefox浏览器    Chrome浏览器
+    userAgent    Opera/9.80 (Windows NT 6.0) Presto/2.12.388 Version/12.14    Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv 25.0) Gecko/20100101 Firefox/25.0    Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1467.0 Safari/537.36
+    plugin    Chrome Remote Desktop Viewer;广告终结者;Silverlight Plug-InNVIDIA 3D Vision;360SoftMgrPlugin;Silverlight Plug-In;CNKI sysinfo Plugin;CrxMouse;Chromium PDF Viewer;koudai;Alipay security control;Adblock Plus;Tencent FTN plug-in;Screener;Microsoft Office 2013;Xmarks Sync;
+    Screen    1280*1024
+    ip    221.2.164.23    221.2.164.12
+    local    山东省威海市
+    login abnormal    27
+    dynamic data    0.165517241379    0.445    0.12    0.293436293436    0.425    0.484670580561    0.1425
+dongdong@wis-eye.com:
+    browser    Chrome浏览器    IE浏览器
+    userAgent    Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.93 Safari/537.36    Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2226.0 Safari/537.36    Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; SLCC2; Media Center PC 6.0; InfoPath.3; MS-RTC LM 8; Zune 4.7)
+    plugin    Tencent FTN plug-in;zconf;Chromium PDF Viewer;Tencent SSO Platform;QQGamePlugin Pro;Chrome Remote Desktop Viewer;iMacros;QQMail Plugin;QQÒôÀÖ²¥·Å¿Ø¼þ;Native Client;
+    Screen    1280*1024
+    ip    221.2.164.26    221.2.164.11    221.2.164.22    221.2.164.3    221.2.164.9
+    local    山东省威海市
+    login abnormal    25
+    dynamic data    0.163793103448    0.454444444444    0.1    0.289575289575    0.45    0.496629702109    0.1375
+linjinxiu@wis-eye.com:
+    browser    Chrome浏览器
+    userAgent    Mozilla/5.0 (X11; NetBSD) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.116 Safari/537.36    Mozilla/5.0 (X11; CrOS i686 3912.101.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.116 Safari/537.36
+    plugin    Thunder DapCtrl NPAPI Plugin;Intel® Identity Protection Technology;Infinity新标签页;Tencent FTN plug-in;SiteInfo;
+    Screen    800*600
+    ip    221.2.164.23    221.2.164.9    221.2.164.11    221.2.164.18    221.2.164.25
+    local    山东省威海市
+    login abnormal    20
+    dynamic data    0.16724137931    0.443611111111    0.13    0.297297297297    0.425    0.466405740378    0.1325
+wangxuwu@wis-eye.com:
+    browser    Firefox浏览器    Safari浏览器
+    userAgent    Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10; rv 33.0) Gecko/20100101 Firefox/33.0    Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_5; zh-cn) AppleWebKit/533.19.4 (KHTML, like Gecko) Version/5.0.3 Safari/533.19.4
+    plugin    Silverlight Plug-In;Microsoft® Windows Media Player Firefox Plugin;Tencent SSO Platform;BaiduYunGuanjia Application;Video download helper;Intel® Identity Protection Technology;AliSSOLogin plugin;iTrusChina iTrusPTA,XEnroll,iEnroll,hwPTA,UKeyInstalls Firefox Plugin;Alipay security control;LastPass;NVIDIA 3D Vision;360安全卫士 快速登录;
+    Screen    1600*900
+    ip    221.2.164.18    221.2.164.15    221.2.164.21    221.2.164.11    221.2.164.26
+    local    山东省威海市
+    login abnormal    23
+    dynamic data    0.174137931034    0.436666666667    0.12    0.293436293436    0.425    0.46531854751    0.15
+luxin@wis-eye.com:
+    browser    IE浏览器    Chrome浏览器
+    userAgent    Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; SLCC1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET CLR 1.1.4322)    Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2049.0 Safari/537.36    Mozilla/5.0 (X11; CrOS i686 3912.101.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.116 Safari/537.36
+    plugin    Foxit Reader Plugin for Mozilla;CNKI sysinfo Plugin;iTrusChina iTrusPTA,XEnroll,iEnroll,hwPTA,UKeyInstalls Firefox Plugin;Chromium PDF Viewer;Video download helper;QQGamePlugin Pro;
+    Screen    1024*768
+    ip    221.2.164.22    221.2.164.11    221.2.164.16
+    local    山东省威海市
+    login abnormal    13
+    dynamic data    0.239655172414    0.258333333333    0.27    0.108108108108    0.3    0.227658186562    0.2475
+jiyunfeng@wis-eye.com:
+    browser    IE浏览器
+    userAgent    Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; SLCC1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET CLR 1.1.4322)    Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 7.0; InfoPath.3; .NET CLR 3.1.40767; Trident/6.0; en-IN)
+    plugin    Intel® Identity Protection Technology;Postman;Thunder DapCtrl NPAPI Plugin;Silverlight Plug-InNVIDIA 3D Vision;BaiduYunGuanjia Application;NVIDIA 3D VISION;QQÒôÀÖ²¥·Å¿Ø¼þ;CNKI sysinfo Plugin;Awesome Screenshot Plus;onlinefav;
+    Screen    1440*900
+    ip    221.2.164.16    221.2.164.26    221.2.164.15
+    local    山东省威海市
+    login abnormal    2
+    dynamic data    0.256896551724    0.240277777778    0.34    0.111969111969    0.3    0.222222222222    0.1925
+liuxinyu@wis-eye.com:
+    browser    Firefox浏览器    IE浏览器    Safari浏览器
+    userAgent    Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10; rv 33.0) Gecko/20100101 Firefox/33.0    Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; SLCC1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET CLR 1.1.4322)    Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-cn) AppleWebKit/533.19.4 (KHTML, like Gecko) Version/5.0.3 Safari/533.19.4
+    plugin    Chrome PDF Viewer;Native Client;XunLei User Plugin;XunLei Plugin;iMacros;vimium;VMware Remote Console Plug-in;Screencastify;LastPass;DownThemAll;SiteInfo;Chromium PDF Viewer;
+    Screen    1024*768
+    ip    221.2.164.18    221.2.164.23    221.2.164.16    221.2.164.14
+    local    山东省威海市
+    login abnormal    15
+    dynamic data    0.265517241379    0.243333333333    0.31    0.108108108108    0.275    0.22809306371    0.2275
+lixuetao@wis-eye.com:
+    browser    Chrome浏览器    Firefox浏览器    Safari浏览器
+    userAgent    Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2226.0 Safari/537.36    Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv 25.0) Gecko/20100101 Firefox/25.0    Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_5; zh-cn) AppleWebKit/533.19.4 (KHTML, like Gecko) Version/5.0.3 Safari/533.19.4
+    plugin    LastPass;FireShot;QQMail Plugin;Microsoft® Windows Media Player Firefox Plugin;Shockwave Flash;Chromium PDF Viewer;Awesome Screenshot Plus;VideoHunter+;Chrome PDF Viewer;BaiduYunGuanjia Application;Screener;
+    Screen    800*600
+    ip    221.2.164.3    221.2.164.21    221.2.164.25
+    local    山东省威海市
+    login abnormal    7
+    dynamic data    0.270689655172    0.254722222222    0.27    0.104247104247    0.275    0.225048923679    0.2225
+zhangyaming@@wis-eye.com:
+    browser    Firefox浏览器    IE浏览器    Safari浏览器
+    userAgent    Mozilla/5.0 (Windows NT 6.3; rv 36.0) Gecko/20100101 Firefox/36.0    Mozilla/5.0 (compatible, MSIE 11, Windows NT 6.3; Trident/7.0;  rv    Mozilla/5.0 (Windows; U; Windows NT 5.1; it-IT) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.3 Safari/533.19.4
+    plugin    Chromium PDF Plugin;GamePlugin;Chrome PDF Plugin;vimium;QQÒôÀÖ²¥·Å¿Ø¼þ;koudai;iTrusChina iTrusPTA,XEnroll,iEnroll,hwPTA,UKeyInstalls Firefox PluginMicrosoft Office 2013;360SoftMgrPlugin;Screencastify;360安全卫士 快速登录;Foxit Reader Plugin for Mozilla;CNKI CAJAX Plugin;QQGamePlugin Pro;Chrome PDF Viewer;APlayer ActiveX hosting plugin;
+    Screen    1440*900
+    ip    221.2.164.7    221.2.164.22
+    local    山东省威海市
+    login abnormal    25
+    dynamic data    0.262068965517    0.263055555556    0.26    0.108108108108    0.3    0.245053272451    0.2425
+jikongming@wis-eye.com:
+    browser    Safari浏览器    IE浏览器
+    userAgent    Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_5; zh-cn) AppleWebKit/533.19.4 (KHTML, like Gecko) Version/5.0.3 Safari/533.19.4    Mozilla/5.0 (compatible, MSIE 11, Windows NT 6.3; Trident/7.0;  rv    Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 7.0; InfoPath.3; .NET CLR 3.1.40767; Trident/6.0; en-IN)
+    plugin    CrxMouse;Alipay security control;QQMail Plugin;Microsoft® Windows Media Player Firefox Plugin;Awesome Screenshot Plus;VMware Remote Console Plug-in;iMacros;Screener;NVIDIA 3D VISION;Silverlight Plug-In;
+    Screen    1600*900
+    ip    221.2.164.16    221.2.164.10    221.2.164.3
+    local    山东省威海市
+    login abnormal    1
+    dynamic data    0.251724137931    0.2775    0.26    0.108108108108    0.275    0.262665796912    0.2525
+zhangqiming@wis-eye.com:
+    browser    Opera浏览器    Chrome浏览器
+    userAgent    Opera/9.80 (Windows NT 6.1; U; pl) Presto/2.7.62 Version/11.00    Mozilla/5.0 (X11; CrOS i686 4319.74.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.57 Safari/537.36
+    plugin    CrxMouse;FireShot;Unblock Youku;Awesome Screenshot Plus;EditThisCookie;Postman;Video download helper;Chromium PDF Plugin;Chrome PDF Viewer;Chrome Remote Desktop Viewer;vimium;iTrusChina iTrusPTA,XEnroll,iEnroll,hwPTA,UKeyInstalls Firefox PluginMicrosoft Office 2013;NVIDIA 3D Vision;Thunder DapCtrl NPAPI Plugin;XunLei User Plugin;
+    Screen    1600*900
+    ip    221.2.164.19    221.2.164.17
+    local    山东省威海市
+    login abnormal    10
+    dynamic data    0.265517241379    0.282222222222    0.36    0.104247104247    0.275    0.249184605349    0.265
+zhangruiqi@wis-eye.com:
+    browser    Firefox浏览器    Opera浏览器
+    userAgent    Mozilla/5.0 (Windows NT 6.1; WOW64; rv 18.0)  Gecko/20100101 Firefox/18.0    Opera/9.80 (Windows NT 6.0) Presto/2.12.388 Version/12.14
+    plugin    GamePlugin;Unblock Youku;FireShot;QQGamePlugin Pro;Microsoft® Windows Media Player Firefox Plugin;koudai;Silverlight Plug-InNVIDIA 3D Vision;SiteInfo;EditThisCookie;广告终结者;Tencent FTN plug-in;
+    Screen    800*600
+    ip    221.2.164.12    221.2.164.14    221.2.164.22    221.2.164.18    221.2.164.16
+    local    山东省威海市
+    login abnormal    6
+    dynamic data    0.253448275862    0.246111111111    0.25    0.11583011583    0.275    0.223526853664    0.2025
+yutao@wis-eye.com:
+    browser    IE浏览器
+    userAgent    Mozilla/5.0 (compatible, MSIE 11, Windows NT 6.3; Trident/7.0;  rv    Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/4.0; GTB7.4; InfoPath.1; SV1; .NET CLR 2.8.52393; WOW64; en-US)
+    plugin    Silverlight Plug-In;广告终结者;AliSSOLogin plugin;Postman;iMacros;QQÒôÀÖ²¥·Å¿Ø¼þ;Alipay security control;QQMail Plugin;GamePlugin;vimium;SiteInfo;360安全卫士 快速登录;Tencent FTN plug-in;iTrusChina iTrusPTA,XEnroll,iEnroll,hwPTA,UKeyInstalls Firefox PluginMicrosoft Office 2013;Microsoft® Windows Media Player Firefox Plugin;
+    Screen    1280*1024
+    ip    221.2.164.23    221.2.164.13
+    local    山东省威海市
+    login abnormal    25
+    dynamic data    0.268965517241    0.243611111111    0.24    0.11583011583    0.275    0.232224396608    0.24
+luzhneyang@wis-eye.com:
+    browser    IE浏览器    Chrome浏览器
+    userAgent    Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 7.0; InfoPath.3; .NET CLR 3.1.40767; Trident/6.0; en-IN)    Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/5.0)    Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.93 Safari/537.36
+    plugin    GamePlugin;Silverlight Plug-InNVIDIA 3D Vision;广告终结者;Intel® Identity Protection Technology;Infinity新标签页;Silverlight Plug-In;FireShot;SiteInfo;Postman;
+    Screen    1280*1024
+    ip    221.2.164.23    221.2.164.22    221.2.164.15
+    local    山东省威海市
+    login abnormal    15
+    dynamic data    0.218965517241    0.249166666667    0.32    0.11583011583    0.275    0.231789519461    0.2375
+oulibing@@wis-eye.com:
+    browser    Firefox浏览器    IE浏览器    Opera浏览器
+    userAgent    Mozilla/5.0 (Windows NT 6.3; rv 36.0) Gecko/20100101 Firefox/36.0    Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 7.0; InfoPath.3; .NET CLR 3.1.40767; Trident/6.0; en-IN)    Opera/9.80 (Windows NT 5.2; U; zh-cn) Presto/2.7.62 Version/11.01
+    plugin    BaiduYunGuanjia Application;广告终结者;Alipay security control;CNKI sysinfo Plugin;CrxMouse;
+    Screen    1600*900
+    ip    221.2.164.3    221.2.164.20    221.2.164.26    221.2.164.25
+    local    山东省威海市
+    login abnormal    15
+    dynamic data    0.255172413793    0.2575    0.3    0.104247104247    0.3    0.237877799522    0.2475
+jinzhen@wis-eye.com:
+    browser    Chrome浏览器    Firefox浏览器
+    userAgent    Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2226.0 Safari/537.36    Mozilla/5.0 (X11; CrOS i686 3912.101.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.116 Safari/537.36    Mozilla/5.0 (Windows NT 6.1; rv 27.3) Gecko/20130101 Firefox/27.3
+    plugin    Silverlight Plug-In;zconf;Screener;Microsoft Office 2013;Chrome PDF Plugin;NVIDIA 3D VISION;VMware Remote Console Plug-in;XunLei Plugin;Microsoft® Windows Media Player Firefox Plugin;Unblock Youku;Shockwave Flash;Adblock Plus;onlinefav;
+    Screen    1600*900
+    ip    221.2.164.26    221.2.164.12
+    local    山东省威海市
+    login abnormal    11
+    dynamic data    0.248275862069    0.253611111111    0.27    0.104247104247    0.275    0.234616220918    0.2025
+wangyang@wis-eye.com:
+    browser    Chrome浏览器    Firefox浏览器
+    userAgent    Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2226.0 Safari/537.36    Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10; rv 33.0) Gecko/20100101 Firefox/33.0
+    plugin    Chromium PDF Plugin;Screencastify;Video download helper;360SoftMgrPlugin;Shockwave Flash;Thunder DapCtrl NPAPI Plugin;iMacros;NVIDIA 3D Vision;
+    Screen    800*600
+    ip    221.2.164.23    221.2.164.22    221.2.164.9    221.2.164.24    221.2.164.17
+    local    山东省威海市
+    login abnormal    20
+    dynamic data    0.275862068966    0.256111111111    0.24    0.220077220077    0.275    0.23657316808    0.2025
+renlong@wis-eye.com:
+    browser    Chrome浏览器    Firefox浏览器    Safari浏览器
+    userAgent    Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2226.0 Safari/537.36    Mozilla/5.0 (Windows NT 6.3; rv 36.0) Gecko/20100101 Firefox/36.0    Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_7; zh-cn) AppleWebKit/534.16+ (KHTML, like Gecko) Version/5.0.3 Safari/533.19.4
+    plugin    Adblock Plus;Thunder DapCtrl NPAPI Plugin;GamePlugin;AliSSOLogin plugin;iMacros;SiteInfo;Unblock Youku;
+    Screen    1600*900
+    ip    221.2.164.20    221.2.164.23    221.2.164.3    221.2.164.22
+    local    山东省威海市
+    login abnormal    5
+    dynamic data    0.229310344828    0.303055555556    0.26    0.216216216216    0.3    0.276581865623    0.23
+yanghaotian@wis-eye.com:
+    browser    Opera浏览器    Chrome浏览器
+    userAgent    Opera/9.80 (Windows NT 6.1; U; pl) Presto/2.7.62 Version/11.00    Mozilla/5.0 (X11; OpenBSD i386) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+    plugin    vimium;Awesome Screenshot Plus;NVIDIA 3D Vision;DownThemAll;Tencent QQ;
+    Screen    1600*900
+    ip    221.2.164.14    221.2.164.10    221.2.164.9
+    local    山东省威海市
+    login abnormal    7
+    dynamic data    0.244827586207    0.234722222222    0.29    0.227799227799    0.3    0.212654924984    0.2425
+liyanzhe@wis-eye.com:
+    browser    Chrome浏览器    Opera浏览器
+    userAgent    Mozilla/5.0 (X11; NetBSD) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.116 Safari/537.36    Opera/9.80 (Windows NT 6.1; U; zh-cn) Presto/2.7.62 Version/11.01
+    plugin    Chrome PDF Plugin;koudai;Native Client;Chromium PDF Plugin;EditThisCookie;onlinefav;Silverlight Plug-In;360Skinhelper;LastPass;Microsoft® Windows Media Player Firefox Plugin;QQÒôÀÖ²¥·Å¿Ø¼þ;Xmarks Sync;Chrome Remote Desktop Viewer;
+    Screen    1440*900
+    ip    221.2.164.18    221.2.164.3    221.2.164.15    221.2.164.16
+    local    山东省威海市
+    login abnormal    13
+    dynamic data    0.251724137931    0.2575    0.3    0.212355212355    0.3    0.232006958034    0.2475
+lijunsong@@wis-eye.com:
+    browser    Chrome浏览器    IE浏览器    Safari浏览器
+    userAgent    Mozilla/5.0 (X11; CrOS i686 3912.101.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.116 Safari/537.36    Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; SLCC1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET CLR 1.1.4322)    Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_6; zh-cn) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27
+    plugin    FireShot;Tencent SSO Platform;360Skinhelper;CNKI CAJAX Plugin;Postman;Screencastify;360安全卫士 快速登录;Video download helper;
+    Screen    1280*1024
+    ip    221.2.164.22    221.2.164.19    221.2.164.18    221.2.164.10    221.2.164.17
+    local    山东省威海市
+    login abnormal    10
+    dynamic data    0.26724137931    0.278333333333    0.29    0.227799227799    0.275    0.258969341161    0.2525
+zhaiwenjie@wis-eye.com:
+    browser    IE浏览器    Chrome浏览器
+    userAgent    Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; SLCC2; Media Center PC 6.0; InfoPath.3; MS-RTC LM 8; Zune 4.7)    Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1467.0 Safari/537.36
+    plugin    QQÒôÀÖ²¥·Å¿Ø¼þ;CrxMouse;Microsoft Office 2013;iTrusChina iTrusPTA,XEnroll,iEnroll,hwPTA,UKeyInstalls Firefox PluginMicrosoft Office 2013;CNKI sysinfo Plugin;iTrusChina iTrusPTA,XEnroll,iEnroll,hwPTA,UKeyInstalls Firefox Plugin;VideoHunter+;koudai;
+    Screen    1440*900
+    ip    221.2.164.18    221.2.164.19    221.2.164.24
+    local    山东省威海市
+    login abnormal    11
+    dynamic data    0.277586206897    0.258611111111    0.27    0.227799227799    0.275    0.235051098065    0.265
+heyancheng@wis-eye.com:
+    browser    Safari浏览器    Firefox浏览器
+    userAgent    Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_7; zh-cn) AppleWebKit/534.16+ (KHTML, like Gecko) Version/5.0.3 Safari/533.19.4    Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv 24.0) Gecko/20100101 Firefox/24.0
+    plugin    Unblock Youku;VMware Remote Console Plug-in;Microsoft Office 2013;Native Client;vimium;Shockwave Flash;FireShot;Screencastify;VideoHunter+;Infinity新标签页;CNKI sysinfo Plugin;Chrome PDF Viewer;Awesome Screenshot Plus;Chrome PDF Plugin;
+    Screen    1280*1024
+    ip    221.2.164.15    221.2.164.20    221.2.164.22
+    local    山东省威海市
+    login abnormal    16
+    dynamic data    0.241379310345    0.276944444444    0.28    0.220077220077    0.275    0.264187866928    0.23
+sunyue@wis-eye.com:
+    browser    Chrome浏览器    IE浏览器
+    userAgent    Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36    Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; SLCC1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET CLR 1.1.4322)    Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.93 Safari/537.36
+    plugin    iTrusChina iTrusPTA,XEnroll,iEnroll,hwPTA,UKeyInstalls Firefox Plugin;Microsoft® Windows Media Player Firefox Plugin;NVIDIA 3D VISION;Shockwave Flash;CrxMouse;zconf;VideoHunter+;
+    Screen    1280*1024
+    ip    221.2.164.17    221.2.164.21    221.2.164.22    221.2.164.12    221.2.164.25
+    local    山东省威海市
+    login abnormal    11
+    dynamic data    0.255172413793    0.289722222222    0.24    0.223938223938    0.275    0.272667971298    0.2125
+zhanghanwen@wis-eye.com:
+    browser    Chrome浏览器    Firefox浏览器    Safari浏览器
+    userAgent    Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36    Mozilla/5.0 (Windows NT 6.1; WOW64; rv 18.0)  Gecko/20100101 Firefox/18.0    Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_7; zh-cn) AppleWebKit/534.16+ (KHTML, like Gecko) Version/5.0.3 Safari/533.19.4
+    plugin    XunLei User Plugin;Chrome PDF Viewer;Thunder DapCtrl NPAPI Plugin;vimium;CNKI sysinfo Plugin;CNKI CAJAX Plugin;Postman;QQMail Plugin;Tencent FTN plug-in;
+    Screen    1024*768
+    ip    221.2.164.19    221.2.164.16    221.2.164.25    221.2.164.21    221.2.164.20
+    local    山东省威海市
+    login abnormal    24
+    dynamic data    0.606896551724    0.571666666667    0.34    0.409266409266    0.625    0.475320721896    0.3075
+cuirunze@wis-eye.com:
+    browser    IE浏览器    Safari浏览器    Firefox浏览器
+    userAgent    Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/5.0)    Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_7; zh-cn) AppleWebKit/534.16+ (KHTML, like Gecko) Version/5.0.3 Safari/533.19.4    Mozilla/5.0 (Windows NT 6.1; WOW64; rv 18.0)  Gecko/20100101 Firefox/18.0
+    plugin    iTrusChina iTrusPTA,XEnroll,iEnroll,hwPTA,UKeyInstalls Firefox PluginMicrosoft Office 2013;VMware Remote Console Plug-in;Silverlight Plug-InNVIDIA 3D Vision;360SoftMgrPlugin;CNKI CAJAX Plugin;onlinefav;
+    Screen    1600*900
+    ip    221.2.164.9    221.2.164.26    221.2.164.15
+    local    山东省威海市
+    login abnormal    17
+    dynamic data    0.606896551724    0.5625    0.33    0.416988416988    0.625    0.450532724505    0.3025
+1422596293@qq.com:
+    browser    Safari浏览器    Firefox浏览器
+    userAgent    Mozilla/5.0 (Windows; U; Windows NT 5.1; it-IT) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.3 Safari/533.19.4    Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv 25.0) Gecko/20100101 Firefox/25.0    Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
+    plugin    Video download helper;Silverlight Plug-InNVIDIA 3D Vision;Unblock Youku;onlinefav;VideoHunter+;SiteInfo;Chromium PDF Plugin;Chrome Remote Desktop Viewer;Microsoft Office 2013;CNKI CAJAX Plugin;Screencastify;LastPass;GamePlugin;Alipay security control;
+    Screen    1440*900
+    ip    221.2.164.22    221.2.164.18
+    local    山东省威海市
+    login abnormal    24
+    dynamic data    0.613793103448    0.557777777778    0.4    0.432432432432    0.575    0.464883670363    0.36
+yuchao@wis-eye.com:
+    browser    Firefox浏览器    Chrome浏览器
+    userAgent    Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv 16.0.1) Gecko/20121011 Firefox/21.0.1    Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv 24.0) Gecko/20100101 Firefox/24.0    Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.67 Safari/537.36
+    plugin    Shockwave Flash;Chromium PDF Plugin;onlinefav;vimium;Foxit Reader Plugin for Mozilla;Thunder DapCtrl NPAPI Plugin;Postman;Intel® Identity Protection Technology;koudai;iMacros;Adblock Plus;360SoftMgrPlugin;QQMail Plugin;SiteInfo;AliSSOLogin plugin;
+    Screen    1440*900
+    ip    221.2.164.18    221.2.164.22
+    local    山东省威海市
+    login abnormal    17
+    dynamic data    0.627586206897    0.565555555556    0.39    0.416988416988    0.6    0.470319634703    0.36
+liuchaoyang@wis-eye.com:
+    browser    Chrome浏览器    IE浏览器    Opera浏览器
+    userAgent    Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.67 Safari/537.36    Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; SLCC2; Media Center PC 6.0; InfoPath.3; MS-RTC LM 8; Zune 4.7)    Opera/9.80 (Windows NT 6.0) Presto/2.12.388 Version/12.14
+    plugin    CNKI sysinfo Plugin;Chrome PDF Viewer;Alipay security control;NVIDIA 3D VISION;Native Client;BaiduYunGuanjia Application;CNKI CAJAX Plugin;Chromium PDF Viewer;Infinity新标签页;
+    Screen    1024*768
+    ip    221.2.164.10    221.2.164.3
+    local    山东省威海市
+    login abnormal    10
+    dynamic data    0.570689655172    0.585555555556    0.36    0.416988416988    0.6    0.495542509241    0.33
+gongjun@@wis-eye.com:
+    browser    IE浏览器    Chrome浏览器
+    userAgent    Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 7.0; InfoPath.3; .NET CLR 3.1.40767; Trident/6.0; en-IN)    Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.67 Safari/537.36
+    plugin    Screencastify;LastPass;Xmarks Sync;APlayer ActiveX hosting plugin;BaiduYunGuanjia Application;CNKI CAJAX Plugin;Screener;Silverlight Plug-InNVIDIA 3D Vision;koudai;Silverlight Plug-In;XunLei User Plugin;
+    Screen    1600*900
+    ip    221.2.164.24    221.2.164.3    221.2.164.10    221.2.164.19
+    local    山东省威海市
+    login abnormal    12
+    dynamic data    0.613793103448    0.594444444444    0.34    0.420849420849    0.55    0.504240052185    0.3625
+pengyanhao@@wis-eye.com:
+    browser    Chrome浏览器
+    userAgent    Mozilla/5.0 (X11; CrOS i686 4319.74.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.57 Safari/537.36    Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.67 Safari/537.36
+    plugin    Chrome PDF Viewer;广告终结者;XunLei User Plugin;Chromium PDF Viewer;Xmarks Sync;Intel® Identity Protection Technology;Thunder DapCtrl NPAPI Plugin;Postman;Chrome Remote Desktop Viewer;Adblock Plus;CrxMouse;QQÒôÀÖ²¥·Å¿Ø¼þ;EditThisCookie;iTrusChina iTrusPTA,XEnroll,iEnroll,hwPTA,UKeyInstalls Firefox PluginMicrosoft Office 2013;Chrome PDF Plugin;
+    Screen    1440*900
+    ip    221.2.164.25    221.2.164.19
+    local    山东省威海市
+    login abnormal    16
+    dynamic data    0.587931034483    0.558611111111    0.32    0.420849420849    0.575    0.478364861927    0.3625
+wangliming@wis-eye.com:
+    browser    Chrome浏览器    Opera浏览器    IE浏览器
+    userAgent    Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1467.0 Safari/537.36    Opera/9.80 (Windows NT 6.1; U; zh-cn) Presto/2.7.62 Version/11.01    Mozilla/5.0 (compatible, MSIE 11, Windows NT 6.3; Trident/7.0;  rv
+    plugin    Microsoft® Windows Media Player Firefox Plugin;CNKI sysinfo Plugin;Screencastify;Alipay security control;iTrusChina iTrusPTA,XEnroll,iEnroll,hwPTA,UKeyInstalls Firefox Plugin;CrxMouse;
+    Screen    1024*768
+    ip    221.2.164.7    221.2.164.17    221.2.164.21
+    local    山东省威海市
+    login abnormal    2
+    dynamic data    0.522413793103    0.5325    0.49    0.409266409266    0.6    0.410089149815    0.25
+lipengcheng@wis-eye.com:
+    browser    IE浏览器    Firefox浏览器    Chrome浏览器
+    userAgent    Mozilla/5.0 (compatible, MSIE 11, Windows NT 6.3; Trident/7.0;  rv    Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv 24.0) Gecko/20100101 Firefox/24.0    Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2049.0 Safari/537.36
+    plugin    XunLei User Plugin;NVIDIA 3D Vision;Xmarks Sync;Tencent SSO Platform;AliSSOLogin plugin;Chromium PDF Plugin;Chrome Remote Desktop Viewer;
+    Screen    1440*900
+    ip    221.2.164.24    221.2.164.25    221.2.164.21
+    local    山东省威海市
+    login abnormal    18
+    dynamic data    0.613793103448    0.564444444444    0.3    0.413127413127    0.6    0.45683844314    0.355
+liujiahow@wis-eye.com:
+    browser    Chrome浏览器    Opera浏览器
+    userAgent    Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.67 Safari/537.36    Opera/9.80 (Windows NT 5.2; U; zh-cn) Presto/2.7.62 Version/11.01
+    plugin    CrxMouse;Tencent SSO Platform;DownThemAll;SiteInfo;Chromium PDF Plugin;Screencastify;Awesome Screenshot Plus;Intel® Identity Protection Technology;Infinity新标签页;VMware Remote Console Plug-in;Microsoft® Windows Media Player Firefox Plugin;
+    Screen    1600*900
+    ip    221.2.164.14    221.2.164.9    221.2.164.16    221.2.164.26
+    local    山东省威海市
+    login abnormal    14
+    dynamic data    0.587931034483    0.561944444444    0.39    0.413127413127    0.625    0.469232441835    0.3975
+yangshuo@wis-eye.com:
+    browser    IE浏览器    Chrome浏览器
+    userAgent    Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/5.0)    Mozilla/5.0 (X11; CrOS i686 4319.74.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.57 Safari/537.36
+    plugin    Native Client;Intel® Identity Protection Technology;CNKI sysinfo Plugin;LastPass;QQMail Plugin;iTrusChina iTrusPTA,XEnroll,iEnroll,hwPTA,UKeyInstalls Firefox Plugin;QQÒôÀÖ²¥·Å¿Ø¼þ;vimium;XunLei Plugin;Microsoft® Windows Media Player Firefox Plugin;CNKI CAJAX Plugin;XunLei User Plugin;
+    Screen    1600*900
+    ip    221.2.164.25    221.2.164.15
+    local    山东省威海市
+    login abnormal    13
+    dynamic data    0.624137931034    0.576944444444    0.31    0.42471042471    0.6    0.451185040226    0.38
+kongqingming@wis-eye.com:
+    browser    Firefox浏览器    Safari浏览器
+    userAgent    Mozilla/5.0 (Windows NT 6.2; Win64; x64; rv 27.0) Gecko/20121011 Firefox/27.0    Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_7; zh-cn) AppleWebKit/534.16+ (KHTML, like Gecko) Version/5.0.3 Safari/533.19.4
+    plugin    NVIDIA 3D Vision;iTrusChina iTrusPTA,XEnroll,iEnroll,hwPTA,UKeyInstalls Firefox PluginMicrosoft Office 2013;广告终结者;Foxit Reader Plugin for Mozilla;QQÒôÀÖ²¥·Å¿Ø¼þ;Chrome PDF Viewer;BaiduYunGuanjia Application;
+    Screen    1024*768
+    ip    221.2.164.10    221.2.164.12    221.2.164.11    221.2.164.23
+    local    山东省威海市
+    login abnormal    15
+    dynamic data    0.589655172414    0.545833333333    0.33    0.416988416988    0.6    0.474450967602    0.3725
+sunweizhen@wis-eye.com:
+    browser    Opera浏览器    IE浏览器
+    userAgent    Opera/9.80 (Windows NT 6.0) Presto/2.12.388 Version/12.14    Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/4.0; GTB7.4; InfoPath.1; SV1; .NET CLR 2.8.52393; WOW64; en-US)    Opera/9.80 (Windows NT 5.2; U; zh-cn) Presto/2.7.62 Version/11.01
+    plugin    Xmarks Sync;SiteInfo;Native Client;Alipay security control;LastPass;EditThisCookie;AliSSOLogin plugin;Video download helper;NVIDIA 3D Vision;360SoftMgrPlugin;VideoHunter+;
+    Screen    1024*768
+    ip    221.2.164.17    221.2.164.14    221.2.164.19    221.2.164.9    221.2.164.7
+    local    山东省威海市
+    login abnormal    9
+    dynamic data    0.61724137931    0.553611111111    0.31    0.76833976834    0.6    0.464231354642    0.3775
+leipengquan@wis-eye.com:
+    browser    Firefox浏览器    Safari浏览器
+    userAgent    Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv 24.0) Gecko/20100101 Firefox/24.0    Mozilla/5.0 (Windows; U; Windows NT 5.1; it-IT) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.3 Safari/533.19.4
+    plugin    Alipay security control;VMware Remote Console Plug-in;Postman;QQÒôÀÖ²¥·Å¿Ø¼þ;Screencastify;iMacros;FireShot;XunLei User Plugin;Shockwave Flash;BaiduYunGuanjia Application;Infinity新标签页;Microsoft Office 2013;
+    Screen    1280*1024
+    ip    221.2.164.11    221.2.164.26    221.2.164.14
+    local    山东省威海市
+    login abnormal    19
+    dynamic data    0.563793103448    0.5325    0.33    0.760617760618    0.6    0.44596651446    0.385
+tianran@wis-eye.com:
+    browser    IE浏览器    Firefox浏览器    Chrome浏览器
+    userAgent    Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/4.0; GTB7.4; InfoPath.1; SV1; .NET CLR 2.8.52393; WOW64; en-US)    Mozilla/5.0 (Windows NT 6.1; WOW64; rv 18.0)  Gecko/20100101 Firefox/18.0    Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2226.0 Safari/537.36
+    plugin    Chromium PDF Viewer;Thunder DapCtrl NPAPI Plugin;Chrome PDF Viewer;QQGamePlugin Pro;Xmarks Sync;iTrusChina iTrusPTA,XEnroll,iEnroll,hwPTA,UKeyInstalls Firefox Plugin;CNKI sysinfo Plugin;DownThemAll;XunLei User Plugin;NVIDIA 3D VISION;Tencent SSO Platform;Silverlight Plug-In;Intel® Identity Protection Technology;
+    Screen    1600*900
+    ip    221.2.164.26    221.2.164.10    221.2.164.18
+    local    山东省威海市
+    login abnormal    3
+    dynamic data    0.668965517241    0.564722222222    0.4    0.787644787645    0.6    0.476625353338    0.335
+zhangpeng@wis-eye.com:
+    browser    IE浏览器    Firefox浏览器
+    userAgent    Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 7.0; InfoPath.3; .NET CLR 3.1.40767; Trident/6.0; en-IN)    Mozilla/5.0 (compatible; MSIE 10.6; Windows NT 6.1; Trident/5.0; InfoPath.2; SLCC1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET CLR 2.0.50727) 3gpp-gba UNTRUSTED/1.0    Mozilla/5.0 (Windows NT 6.2; Win64; x64; rv 27.0) Gecko/20121011 Firefox/27.0
+    plugin    QQGamePlugin Pro;iTrusChina iTrusPTA,XEnroll,iEnroll,hwPTA,UKeyInstalls Firefox PluginMicrosoft Office 2013;Intel® Identity Protection Technology;APlayer ActiveX hosting plugin;Microsoft Office 2013;koudai;QQÒôÀÖ²¥·Å¿Ø¼þ;Screencastify;Screener;CNKI sysinfo Plugin;360SoftMgrPlugin;Shockwave Flash;BaiduYunGuanjia Application;Chrome PDF Viewer;
+    Screen    1280*1024
+    ip    221.2.164.21    221.2.164.18    221.2.164.3    221.2.164.19
+    local    山东省威海市
+    login abnormal    12
+    dynamic data    0.606896551724    0.605    0.39    0.749034749035    0.6    0.504457490759    0.3675
+xiaoyutao@wis-eye.com:
+    browser    Safari浏览器    Chrome浏览器
+    userAgent    Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_6; zh-cn) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27    Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2226.0 Safari/537.36
+    plugin    360Skinhelper;VideoHunter+;VMware Remote Console Plug-in;广告终结者;Tencent SSO Platform;
+    Screen    1440*900
+    ip    221.2.164.23    221.2.164.18
+    local    山东省威海市
+    login abnormal    5
+    dynamic data    0.608620689655    0.563888888889    0.49    0.764478764479    0.65    0.507501630789    0.3325
+hechaohui@wis-eye.com:
+    browser    Chrome浏览器    Firefox浏览器
+    userAgent    Mozilla/5.0 (X11; OpenBSD i386) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36    Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2226.0 Safari/537.36    Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv 25.0) Gecko/20100101 Firefox/25.0
+    plugin    iTrusChina iTrusPTA,XEnroll,iEnroll,hwPTA,UKeyInstalls Firefox PluginMicrosoft Office 2013;360Skinhelper;Chromium PDF Viewer;APlayer ActiveX hosting plugin;Awesome Screenshot Plus;DownThemAll;onlinefav;vimium;EditThisCookie;CNKI sysinfo Plugin;Microsoft Office 2013;
+    Screen    1440*900
+    ip    221.2.164.20    221.2.164.12    221.2.164.18    221.2.164.25
+    local    山东省威海市
+    login abnormal    2
+    dynamic data    0.641379310345    0.470555555556    0.35    0.745173745174    0.575    0.381169819526    0.325
+qiulei@wis-eye.com:
+    browser    Safari浏览器    Firefox浏览器
+    userAgent    Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_6; zh-cn) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27    Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv 24.0) Gecko/20100101 Firefox/24.0
+    plugin    VMware Remote Console Plug-in;iTrusChina iTrusPTA,XEnroll,iEnroll,hwPTA,UKeyInstalls Firefox PluginMicrosoft Office 2013;Intel® Identity Protection Technology;AliSSOLogin plugin;360SoftMgrPlugin;Silverlight Plug-In;onlinefav;Tencent SSO Platform;Infinity新标签页;Chromium PDF Viewer;Native Client;LastPass;Tencent QQ;BaiduYunGuanjia Application;
+    Screen    800*600
+    ip    221.2.164.16    221.2.164.23
+    local    山东省威海市
+    login abnormal    7
+    dynamic data    0.620689655172    0.608333333333    0.42    0.756756756757    0.625    0.516634050881    0.34
+shiguoqiang@wis-eye.com:
+    browser    IE浏览器    Firefox浏览器
+    userAgent    Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; chromeframe/12.0.742.112)    Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv 16.0.1) Gecko/20121011 Firefox/21.0.1
+    plugin    DownThemAll;iTrusChina iTrusPTA,XEnroll,iEnroll,hwPTA,UKeyInstalls Firefox Plugin;Awesome Screenshot Plus;QQMail Plugin;CNKI CAJAX Plugin;EditThisCookie;
+    Screen    1440*900
+    ip    221.2.164.14    221.2.164.22
+    local    山东省威海市
+    login abnormal    7
+    dynamic data    0.668965517241    0.587777777778    0.29    0.760617760618    0.6    0.477929984779    0.3125
+yuxiaotong@wis-eye.com:
+    browser    IE浏览器    Safari浏览器
+    userAgent    Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/4.0; GTB7.4; InfoPath.1; SV1; .NET CLR 2.8.52393; WOW64; en-US)    Mozilla/5.0 (Windows; U; Windows NT 5.1; it-IT) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.3 Safari/533.19.4    Mozilla/5.0 (compatible; MSIE 10.6; Windows NT 6.1; Trident/5.0; InfoPath.2; SLCC1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET CLR 2.0.50727) 3gpp-gba UNTRUSTED/1.0
+    plugin    Tencent QQ;360Skinhelper;Foxit Reader Plugin for Mozilla;Microsoft Office 2013;QQGamePlugin Pro;
+    Screen    1280*1024
+    ip    221.2.164.11    221.2.164.12    221.2.164.26    221.2.164.7
+    local    山东省威海市
+    login abnormal    6
+    dynamic data    0.596551724138    0.697222222222    0.35    0.741312741313    0.65    0.557947379865    0.3175
+zhangyouqiang@wis-eye.com:
+    browser    Chrome浏览器
+    userAgent    Mozilla/5.0 (X11; CrOS i686 3912.101.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.116 Safari/537.36    Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.93 Safari/537.36
+    plugin    FireShot;onlinefav;Chrome PDF Plugin;iTrusChina iTrusPTA,XEnroll,iEnroll,hwPTA,UKeyInstalls Firefox PluginMicrosoft Office 2013;Awesome Screenshot Plus;Microsoft® Windows Media Player Firefox Plugin;Tencent SSO Platform;Infinity新标签页;NVIDIA 3D VISION;NVIDIA 3D Vision;EditThisCookie;Microsoft Office 2013;Xmarks Sync;
+    Screen    1600*900
+    ip    221.2.164.7    221.2.164.20    221.2.164.23    221.2.164.11    221.2.164.14
+    local    山东省威海市
+    login abnormal    2
+    dynamic data    0.56724137931    0.460555555556    0.3    0.803088803089    0.65    0.406392694064    0.345
+mengchen@wis-eye.com:
+    browser    Firefox浏览器    IE浏览器
+    userAgent    Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0    Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; chromeframe/12.0.742.112)
+    plugin    DownThemAll;LastPass;360安全卫士 快速登录;vimium;GamePlugin;SiteInfo;NVIDIA 3D Vision;
+    Screen    1024*768
+    ip    221.2.164.24    221.2.164.23
+    local    山东省威海市
+    login abnormal    4
+    dynamic data    0.581034482759    0.478333333333    0.41    0.741312741313    0.55    0.389215046749    0.3975

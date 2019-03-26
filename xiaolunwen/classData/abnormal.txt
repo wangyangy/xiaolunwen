@@ -1,0 +1,17 @@
+yuhao@wis-eye.com    26    8    2    4    17    0    4    4
+wangrui@wis-eye.com    33    8    5    3    26    1    7    3
+fanyongxian@wis-eye.com    30    10    4    2    23    3    5    2
+caoming@qq.com    17    7    2    1    11    0    0    0
+kaixiang@wis-eye.com    26    8    5    4    20    2    0    0
+biancheng@wis-eye.com    19    6    3    3    10    1    7    7
+zhangyue@wis-eye.com    27    10    4    3    21    3    10    10
+duyangdi@wis-eye.com    17    9    3    4    10    3    5    4
+yaozhen@wis-eye.com    19    10    3    3    9    1    7    1
+wangchenguang@wis-eye.com    14    6    2    5    7    1    6    5
+wenxingnan@wis-eye.com    28    8    4    5    20    2    9    6
+menglingxue@wis-eye.com    22    9    5    1    15    1    0    0
+wangwei@wis-eye.com    24    7    5    1    15    2    8    7
+liwang@wis-eye.com    33    6    5    5    24    3    10    3
+lichenye@wis-eye.com    18    7    3    4    12    3    5    2
+liujian@@wis-eye.com    27    8    5    5    22    3    2    2
+wangliming@wis-eye.com    19    9    5    2    9    3    0    0

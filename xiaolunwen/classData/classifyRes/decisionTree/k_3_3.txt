@@ -1,0 +1,88 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.trees.J48 -C 0.25 -M 2
+Relation:     combine_k_3_3-weka.filters.unsupervised.attribute.Remove-R1
+Instances:    27
+Attributes:   9
+              NL
+              NIP
+              NC
+              NUA
+              NSL
+              NSIP
+              RL
+              RIP
+              class
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+J48 pruned tree
+------------------
+
+NC <= 2: normal (19.0/1.0)
+NC > 2: abnormal (8.0)
+
+Number of Leaves  : 	2
+
+Size of the tree : 	3
+
+
+Time taken to build model: 0 seconds
+
+=== Predictions on test data ===
+
+    inst#     actual  predicted error prediction
+        1   1:normal   1:normal       1 
+        2   1:normal   1:normal       1 
+        3 2:abnormal   1:normal   +   1 
+        1   1:normal   1:normal       0.941 
+        2   1:normal   1:normal       0.941 
+        3 2:abnormal 2:abnormal       1 
+        1   1:normal   1:normal       1 
+        2   1:normal   1:normal       1 
+        3 2:abnormal   1:normal   +   1 
+        1   1:normal   1:normal       0.941 
+        2   1:normal   1:normal       0.941 
+        3 2:abnormal 2:abnormal       1 
+        1   1:normal   1:normal       0.941 
+        2   1:normal   1:normal       0.941 
+        3 2:abnormal 2:abnormal       1 
+        1   1:normal   1:normal       0.941 
+        2   1:normal   1:normal       0.941 
+        3 2:abnormal 2:abnormal       1 
+        1   1:normal   1:normal       0.941 
+        2   1:normal   1:normal       0.941 
+        3 2:abnormal 2:abnormal       1 
+        1   1:normal   1:normal       0.941 
+        2   1:normal   1:normal       0.941 
+        1   1:normal   1:normal       0.944 
+        2 2:abnormal 2:abnormal       1 
+        1   1:normal   1:normal       0.944 
+        2 2:abnormal 2:abnormal       1 
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances          25               92.5926 %
+Incorrectly Classified Instances         2                7.4074 %
+Kappa statistic                          0.8235
+Mean absolute error                      0.1043
+Root mean squared error                  0.2754
+Relative absolute error                 23.1588 %
+Root relative squared error             58.1507 %
+Total Number of Instances               27     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 1.000    0.222    0.900      1.000    0.947      0.837    0.802     0.831     normal
+                 0.778    0.000    1.000      0.778    0.875      0.837    0.802     0.852     abnormal
+Weighted Avg.    0.926    0.148    0.933      0.926    0.923      0.837    0.802     0.838     
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+ 18  0 |  a = normal
+  2  7 |  b = abnormal
+

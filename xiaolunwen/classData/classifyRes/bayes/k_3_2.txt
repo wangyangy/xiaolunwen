@@ -1,0 +1,119 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.bayes.NaiveBayes 
+Relation:     combine_k_3_2-weka.filters.unsupervised.attribute.Remove-R1
+Instances:    13
+Attributes:   9
+              NL
+              NIP
+              NC
+              NUA
+              NSL
+              NSIP
+              RL
+              RIP
+              class
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+Naive Bayes Classifier
+
+                  Class
+Attribute        normal abnormal
+                 (0.53)   (0.47)
+=================================
+NL
+  mean                16  17.6667
+  std. dev.       1.7728   1.7951
+  weight sum           7        6
+  precision            1        1
+
+NIP
+  mean            5.8286        8
+  std. dev.       1.3498   1.6492
+  weight sum           7        6
+  precision          1.2      1.2
+
+NC
+  mean            1.7143   3.1111
+  std. dev.       0.6023   0.9938
+  weight sum           7        6
+  precision       1.3333   1.3333
+
+NUA
+  mean            2.5714      3.5
+  std. dev.       0.7284   0.9574
+  weight sum           7        6
+  precision            1        1
+
+NSL
+  mean                11   9.5333
+  std. dev.       3.1113   1.6398
+  weight sum           7        6
+  precision          2.2      2.2
+
+NSIP
+  mean            5.1429      1.8
+  std. dev.       1.3927      0.6
+  weight sum           7        6
+  precision          1.2      1.2
+
+RL
+  mean               3.6   5.1333
+  std. dev.       1.0198   2.3795
+  weight sum           7        6
+  precision          1.4      1.4
+
+RIP
+  mean            2.1667   3.1111
+  std. dev.       0.9718   2.3007
+  weight sum           7        6
+  precision       1.1667   1.1667
+
+
+
+Time taken to build model: 0 seconds
+
+=== Predictions on test data ===
+
+    inst#     actual  predicted error prediction
+        1   1:normal   1:normal       1 
+        2 2:abnormal 2:abnormal       1 
+        1   1:normal   1:normal       0.851 
+        2 2:abnormal 2:abnormal       1 
+        1   1:normal   1:normal       1 
+        2 2:abnormal 2:abnormal       1 
+        1   1:normal 2:abnormal   +   1 
+        1   1:normal   1:normal       1 
+        1   1:normal   1:normal       1 
+        1   1:normal   1:normal       1 
+        1 2:abnormal 2:abnormal       1 
+        1 2:abnormal 2:abnormal       0.971 
+        1 2:abnormal 2:abnormal       0.979 
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances          12               92.3077 %
+Incorrectly Classified Instances         1                7.6923 %
+Kappa statistic                          0.8471
+Mean absolute error                      0.0922
+Root mean squared error                  0.2806
+Relative absolute error                 17.8513 %
+Root relative squared error             54.1617 %
+Total Number of Instances               13     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.857    0.000    1.000      0.857    0.923      0.857    0.929     0.957     normal
+                 1.000    0.143    0.857      1.000    0.923      0.857    0.929     0.915     abnormal
+Weighted Avg.    0.923    0.066    0.934      0.923    0.923      0.857    0.929     0.938     
+
+=== Confusion Matrix ===
+
+ a b   <-- classified as
+ 6 1 | a = normal
+ 0 6 | b = abnormal
+
